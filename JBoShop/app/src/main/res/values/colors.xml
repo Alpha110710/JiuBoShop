@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="scan_bg">#7f000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="translate">#00000000</color>
+    <color name="grey">#8A8A8A</color>
+    <color name="green">#63F244</color>
+    <color name="white">#FFFFFF</color>
+
+
+</resources>
